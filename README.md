@@ -1,3 +1,3 @@
 # BorderlineBlog
 The Internet Application Project
-Ill add any info when needed
+Ill add any info when needed.
